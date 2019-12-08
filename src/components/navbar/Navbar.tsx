@@ -1,6 +1,5 @@
 import React, {useState} from 'react';
 
-// get our fontawesome imports
 import {faBars, faSearch, faTimes} from '@fortawesome/free-solid-svg-icons';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 
