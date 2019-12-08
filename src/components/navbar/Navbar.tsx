@@ -33,7 +33,7 @@ const Navbar = ({showFilter}: NavbarProps) => {
 
     return (
         <>
-            <header className="relative bg-gray-800 flex">
+            <header className="fixed w-full overflow-hidden top-0 bg-gray-800 flex">
                 <div className="flex items-center justify-between w-full">
                     <div className="flex justify-start w-1/3 sm:hidden">
                         {

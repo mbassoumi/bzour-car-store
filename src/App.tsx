@@ -6,7 +6,7 @@ const App: React.FC = () => {
     return (
         <div>
             <Navbar showFilter={true}/>
-            <div className="flex">
+            <div className="flex mt-16">
                 <FilterSideBar/>
                 <div className="w-full h-screen bg-black h-screen my-5 mx-5">
 
