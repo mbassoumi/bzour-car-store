@@ -4,7 +4,7 @@ import Navbar from './components/navbar/Navbar';
 const App: React.FC = () => {
   return (
      <div>
-         <Navbar/>
+         <Navbar showFilter={true}/>
      </div>
   );
 };
